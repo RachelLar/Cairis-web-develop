@@ -73,13 +73,12 @@
 <div class="wrapper">
     <!-- Main Header -->
     <header class="main-header">
- <!-- Sidebar toggle button-->
+        <!-- Logo -->
+        <a href="#" class="logo">CAIRIS</a>
+        <!-- Sidebar toggle button-->
             <a href="#" class="sidebar-toggle" id="toggler" data-toggle="offcanvas" role="button">
                 <span class="sr-only">Toggle navigation</span>
             </a>
-        <!-- Logo -->
-        <a href="#" class="logo">CAIRIS</a>
-       
 		<!-- Header Navbar -->
         <nav class="navbar navbar-static-top fixed" role="navigation">
             
