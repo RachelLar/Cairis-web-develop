@@ -277,7 +277,7 @@ a:focus {
   line-height: 50px;
   text-align: center;
   width: 230px;
-  font-family: sans-serif;
+  font-family: "Georgia", Georgia, Georgia, Georgia;
   padding: 0 15px;
   font-weight: 300;
 }

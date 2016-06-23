@@ -20,8 +20,7 @@ Because the API changed, some functions inside the assets page had to be reprogr
 therefore functions that have been changed in the original files are now placed here.
 */
 
-<?xml version="1.0"?>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
 
 	$(document).on('click', "button.editAssetsButton",function(){
    		 var name = $(this).attr("value");
